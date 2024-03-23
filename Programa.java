@@ -8,6 +8,9 @@ public class Programa {
             case 2:
                 Exercicio02.executar();
                 break;
+            case 3:
+                Exercicio03.executar();
+                break;
         
             default:
                 break;
