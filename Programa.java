@@ -26,6 +26,9 @@ public class Programa {
             case 8:
                 Exercicio08.executar();
                 break;
+            case 9:
+                Exercicio09.executar();
+                break;
         
             default:
                 break;
