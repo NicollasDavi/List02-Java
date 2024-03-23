@@ -38,6 +38,12 @@ public class Programa {
             case 12:
                 Exercicio12.executar();
                 break;
+            case 13:
+                Exercicio13.executar();
+                break;
+            case 14:
+                Exercicio14.executar();
+                break;
         
             default:
                 break;
